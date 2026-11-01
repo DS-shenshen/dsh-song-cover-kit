@@ -1,0 +1,10 @@
+{
+  "my_voice": {
+    "pth": "D:/models/my_voice.pth",
+    "index": "D:/models/my_voice.index"
+  },
+  "another_voice": {
+    "pth": "D:/models/another_voice.pth",
+    "index": ""
+  }
+}

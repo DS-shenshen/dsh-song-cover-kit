@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# 模型与音频：永远不要提交
+models/
+*.pth
+*.index
+*.onnx
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.vhd
+*.vdi
+
+# 本地配置与产物
+config.json
+voices.json
+out/
+work/
+*.log
+.DS_Store
+Thumbs.db

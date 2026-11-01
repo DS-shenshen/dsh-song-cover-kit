@@ -1,0 +1,8 @@
+# Python 3.10 / 3.11 推荐；3.12 需要 compat/fairseq（见 README）
+torch>=2.0
+torchaudio>=2.0
+numpy
+scipy
+soundfile
+demucs
+rvc-python==0.1.5

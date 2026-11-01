@@ -1,0 +1,9 @@
+{
+  "ffmpeg": "ffmpeg",
+  "voices_file": "voices.json",
+  "demucs_model": "htdemucs",
+  "work_dir": "work",
+  "out_dir": "out",
+  "device": "cpu:0",
+  "hf_endpoint": "https://hf-mirror.com"
+}
